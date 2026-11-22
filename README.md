@@ -67,5 +67,5 @@ I built a Python and Streamlit chatbot prototype for questions about the CertiMi
 - [AI Automation with Claude](https://www.coursera.org/account/accomplishments/records/UU7WC0ITTMYT)
 - [Claude Code in Action](https://www.coursera.org/account/accomplishments/records/MGCBBEMO4SLH)
 - [Command Line (CLI) \& Terminal Basics](https://www.coursera.org/account/accomplishments/records/TFANFQ2XNW09)
-- Introduction to Software Engineering (Coursera)
-- Introduction to Git and GitHub (Coursera)
+- [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/KIKTMUMTDGR6) (Coursera)
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/XLVLFS2OYHFV) (Coursera)
