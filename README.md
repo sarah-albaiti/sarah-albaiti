@@ -4,7 +4,7 @@
 
 | Area | Details |
 | --- | --- |
-| **🎯 Current focus** | Full Stack \& UI/UX Development |
+| **🎯 Current focus** | Launchpad Associate: Full Stack & UI/UX Development · CertiMinds |
 | **🎨 UI/UX** | I map user flows, prototype in Figma, and use usability testing to refine interfaces. I’ve also designed for both English and Arabic. |
 | **💼 Previous role** | Software Engineer / Project Manager at PMOBytes. I led software testing cycles as Scrum Master, managed QPunch client support, and wrote onboarding guides. |
 | **🎓 Education** | BSc (Hons) Software Engineering, First Class · APU and Staffordshire University. |
