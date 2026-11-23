@@ -1,4 +1,4 @@
-![Sarah Al-Baiti’s profile banner](./profile-banner-v2.png)
+![Sarah Al-Baiti’s profile banner](./profile-banner.png)
 
 ## Background
 
