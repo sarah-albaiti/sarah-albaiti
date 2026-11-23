@@ -1,4 +1,4 @@
-![Hey, I’m Sarah Al-Baiti! 👋 Software Engineer / UI/UX Developer / Project Manager · Doha, Qatar I’m a software engineering graduate working across UI/UX and software testing. I enjoy making interfaces easier to use and finding practical ways to apply AI.](./profile-banner.png)
+![Sarah Al-Baiti’s profile banner](./profile-banner-v2.png)
 
 ## Background
 
